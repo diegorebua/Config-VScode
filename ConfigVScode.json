@@ -1,4 +1,4 @@
-,
+{
     "editor.fontFamily": "JetBrains Mono",
     "editor.fontSize": 14,
     "editor.lineHeight": 1.8,
@@ -14,3 +14,4 @@
     "editor.fontLigatures": true,
     "terminal.integrated.fontSize": 14,
     "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font"
+}
